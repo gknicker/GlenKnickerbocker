@@ -1,0 +1,6 @@
+div.logo, div.top {
+	text-align: center;
+}
+img.logo, img.photo {
+	float: none;
+}

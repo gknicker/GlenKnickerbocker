@@ -1,0 +1,33 @@
+body {
+	font-family: Calibri, Arial, sans-serif;
+	padding: 2px 0;
+}
+a {
+	color: black;
+}
+h1, h2, h4 {
+	margin: 0;
+	white-space: nowrap;
+}
+h3.experience {
+	clear: left;
+}
+div.footer {
+	max-width: 640px;
+}
+img.photo {
+	float: left;
+	margin: 0 10px 10px 0;
+}
+img.seal {
+	float: right;
+	margin: 0 10px 0;
+}
+@media screen and (max-width: 839px) {
+	div.top {
+		text-align: center;
+	}
+	img.photo {
+		float: none;
+	}
+}
