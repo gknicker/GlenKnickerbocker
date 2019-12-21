@@ -1,6 +1,9 @@
 div.top {
 	text-align: center;
 }
+h4 {
+	white-space: normal;
+}
 img.photo {
 	float: none;
 }
