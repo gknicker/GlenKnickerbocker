@@ -14,12 +14,12 @@ h1, h2, h4, pre {
 h3.experience {
 	clear: left;
 }
-h5, h6 {
-	margin: 5px 0;
-	font-weight: normal;
-}
 li:not(:first-child) {
 	margin-top: 12px;
+}
+div.frame {
+	background-color: rgba(255, 255, 255, .8);
+	padding-bottom: 4px;
 }
 div.container {
 	background-color: rgba(255, 255, 255, 1);
@@ -27,10 +27,6 @@ div.container {
 	max-width: 996px;
 	margin: 0 auto 24px auto;
 	padding: 12px;
-}
-div.frame {
-	background-color: rgba(255, 255, 255, .8);
-	padding-bottom: 4px;
 }
 div.footer {
 	height: 50px;
